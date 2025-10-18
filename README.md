@@ -124,7 +124,7 @@ Built with Node.js, Express, HTML, CSS, and JavaScript.
 <p align="center">
   <b>B.Tech in Computer Science and Information Technology (CSIT)</b><br>
   University of Engineering & Management, Kolkata (2021–2025)<br>
-  CGPA: <b>8.315</b> (till 6th semester)
+  CGPA: <b>8.47</b>
 </p>
 
 ---
