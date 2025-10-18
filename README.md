@@ -72,6 +72,20 @@ Integrated ML models for crop recommendation and automated irrigation to optimiz
 
 ---
 
+<!-- 🌾 AgriSmart -->
+<a href="https://agrismartv1.netlify.app/" target="_blank">
+  <img src="https://media1.tenor.com/m/UrDUJPjBgLIAAAAC/farm-farming.gif" height="220" alt="AgriSmart Project GIF" />
+</a>  
+<br/>
+<a href="https://agrismartv1.netlify.app/" target="_blank"><b>🌾 AgriSmart</b></a>  
+<p align="center">
+AgriSmart is a smart farming assistant that empowers farmers with real-time crop and fertilizer recommendations.  
+Built using HTML, CSS, JavaScript, and Python (Flask), it leverages ML models trained on crop, soil, and weather data for accurate predictions.  
+Hosted securely on <b>Netlify</b>, designed for accessibility, and focused on improving productivity and yield.
+</p>
+
+---
+
 <!-- 🔐 Basic Encoder and Decoder -->
 <a href="https://utf-8encoder.onrender.com/" target="_blank">
   <img src="https://media.tenor.com/hVX6r4kDu00AAAAi/ai-grok.gif" height="220" alt="Encoder and Decoder Project GIF" />
@@ -99,7 +113,6 @@ Built with Node.js, Express, HTML, CSS, and JavaScript.
 
 </div>
 
----
 
 <h3 align="center">Work Experience 💼</h3>
 
