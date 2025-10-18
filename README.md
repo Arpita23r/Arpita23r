@@ -1,4 +1,4 @@
-<h1 align="center">Hi there! 👋 I'm Arpita Roy</h1>
+<h1 align="center">Hi there! 👋 I'm Arpita</h1>
 
 <h3 align="center">Engineer | Python Developer | Sleepyhead</h3>
 
@@ -7,7 +7,7 @@
   👯 I’m looking to collaborate on <b>Python Development</b> projects.<br>
   🌱 I’m currently learning <b>Advanced Python & Flask</b>.<br>
   💬 Ask me about <b>Data Structures, Web Development, and DBMS</b>.<br>
-  ⚡ Fun fact: <b><i>I am a Sleepyhead!</i></b><br>
+  ⚡ Fun fact: <b><i>Pro-level couch potato: Oggy and the Cockroaches fan!</i></b><br>
   👩‍💻 <b>LinkedIn:</b> <a href="https://linkedin.com/in/arpita-roy-295498245">Arpita Roy</a><br>
 </p>
 
