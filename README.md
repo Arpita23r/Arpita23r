@@ -27,6 +27,7 @@
   <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" height="30" alt="nodejs logo" />
   <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white&style=for-the-badge" height="30" alt="express logo" />
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge" height="30" alt="bootstrap logo" />
+  <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=for-the-badge" height="30" alt="flask logo" />
 
   <!-- Databases & Tools -->
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="30" alt="mysql logo" />
@@ -34,6 +35,12 @@
   <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge" height="30" alt="postman logo" />
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="30" alt="git logo" />
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="30" alt="github logo" />
+
+  <!-- Python Libraries -->
+  <img src="https://img.shields.io/badge/Numpy-013243?logo=numpy&logoColor=white&style=for-the-badge" height="30" alt="numpy logo" />
+  <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=for-the-badge" height="30" alt="pandas logo" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?logo=matplotlib&logoColor=white&style=for-the-badge" height="30" alt="matplotlib logo" />
+  <img src="https://img.shields.io/badge/Seaborn-1A5276?logo=seaborn&logoColor=white&style=for-the-badge" height="30" alt="seaborn logo" />
 
   <!-- Development & Cloud -->
   <img src="https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" height="30" alt="vscode logo" />
@@ -45,7 +52,7 @@
   <img src="https://img.shields.io/badge/JSON-000000?logo=json&logoColor=white&style=for-the-badge" height="30" alt="json logo" />
   <img src="https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white&style=for-the-badge" height="30" alt="jquery logo" />
 </div>
----
+
 
 <h3 align="center">Projects</h3>
 
@@ -185,14 +192,6 @@ Built with Node.js, Express, HTML, CSS, and JavaScript.
   <img src="https://github-profile-trophy.vercel.app/?username=Arpita23r&theme=dracula" alt="GitHub Trophy" />
 </div>
 
----
-
-<h3 align="center">Profile Views 👀</h3>
-<div align="center">
-  <a href="https://u8views.com/github/Arpita23r">
-    <img src="https://u8views.com/api/v1/github/profiles/Arpita23r/views/day-week-month-total-count.svg" alt="GitHub Views" />
-  </a>
-</div>
 
 ---
 
