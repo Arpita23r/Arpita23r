@@ -1,6 +1,6 @@
 <h1 align="center">Hi there! 👋 I'm Arpita Roy</h1>
 
-<h3 align="center">Engineer | Java Developer | Tech Enthusiast</h3>
+<h3 align="center">Engineer | Python Developer | Sleepyhead</h3>
 
 <p align="center">
   🔭 I’m currently working on <b>personal projects and learning new skills</b>.<br>
@@ -47,7 +47,7 @@
 </div>
 ---
 
-<h3 align="center">Projects 🚀</h3>
+<h3 align="center">Projects</h3>
 
 <div align="center">
 
